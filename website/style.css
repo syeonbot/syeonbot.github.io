@@ -12,6 +12,8 @@ a {
     text-decoration: none;
 }
 
+input, textarea, button, html { appearance: none; -moz-appearance: none; -webkit-appearance: none; border-radius: 0; -webkit-border-radius: 0; -moz-border-radius: 0; }
+
 h1{
     font-size: 1.5rem;
 }
